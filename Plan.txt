@@ -1,0 +1,22 @@
+Mini Zookeeper
+1. Port sniffing to check if process is running or not
+2. If Process on Leader broker is not running, attempt restart, also choose another leader before that
+
+Brokers
+1. Three brokers will be started on three different ports
+2. list of topics must be maintained on all brokers
+3. If topic doesn't exist then create a new directory with that topic name, partion the data amongst the
+brokers during reads if possible
+4. When producer writes to a topic, broker must take that message and write it to the file.
+5. Once message is recieved, ACK packet must be sent.
+6. If a consumer is active and is subcribed to that topic then send the messages
+7. Maintain log file of all operations
+
+Producers
+1. Any number of producers maybe called at a time
+2. Send messages to broker ports
+3. If ACK is not recieved, then re-transmit after timeout
+
+Consumers
+1. Any number of consumers maybe called at a time
+2. recieve messages coming from broker ports

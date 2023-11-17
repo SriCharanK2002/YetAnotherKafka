@@ -1,0 +1,49 @@
+Last message was fetched from topic test4 at 2022-12-04 14:38:22.371942
+Message written to topic test4 at 2022-12-04 14:40:39.699468
+All messages were fetched from topic test4 at 2022-12-04 14:45:08.33635
+Message written to topic test4 at 2022-12-04 14:46:25.245704
+All messages were fetched from topic test4 at 2022-12-01 13:51:20.032905
+All messages were fetched from topic test4 at 2022-12-01 13:59:50.699626
+All messages were fetched from topic test4 at 2022-12-01 14:04:46.004567c_message:test4log
+All messages were fetched from topic test3 at 2022-12-01 13:36:58.591363
+Last message was fetched from topic test3 at 2022-12-01 13:36:58.591363
+All messages were fetched from topic test3 at 2022-12-01 13:44:28.570170
+Last message was fetched from topic test3 at 2022-12-01 13:44:28.570170
+All messages were fetched from topic test3 at 2022-12-01 13:48:06.579561
+Last message was fetched from topic test3 at 2022-12-01 13:48:06.579561
+Message written to topic test3 at 2022-12-01 13:48:54.128449
+Last message was fetched from topic test3 at 2022-12-01 13:48:54.128449
+Message written to topic test3 at 2022-12-01 13:49:08.439092
+Last message was fetched from topic test3 at 2022-12-01 13:49:08.439092
+Leader is 9092 at 2022-12-01 13:54:03.252415
+Message written to topic test5 at 2022-12-01 14:03:34.795379
+Last message was fetched from topic test5 at 2022-12-01 14:03:42.188228
+Message written to topic test5 at 2022-12-01 14:03:57.044033
+Last message was fetched from topic test5 at 2022-12-01 14:03:57.044033
+All messages were fetched from topic test5 at 2022-12-01 14:05:03.837693
+Last message was fetched from topic test5 at 2022-12-01 14:05:03.837693
+All messages were fetched from topic test5 at 2022-12-01 14:09:02.391782
+Message written to topic test5 at 2022-12-01 14:09:24.240055
+Last message was fetched from topic test5 at 2022-12-01 14:09:24.240055
+Message written to topic test6 at 2022-12-01 16:23:30.822853
+Last message was fetched from topic test6 at 2022-12-01 16:23:49.736602
+Message written to topic test6 at 2022-12-01 16:23:57.256531
+Last message was fetched from topic test6 at 2022-12-01 16:23:57.256531
+Message written to topic test6 at 2022-12-01 16:24:16.296241
+Last message was fetched from topic test6 at 2022-12-01 16:24:16.296241
+All messages were fetched from topic test6 at 2022-12-01 16:24:22.601422
+Message written to topic test6 at 2022-12-01 16:24:36.862302
+Last message was fetched from topic test6 at 2022-12-01 16:24:36.862302
+Last message was fetched from topic test6 at 2022-12-01 16:24:36.862302
+Message written to topic test7 at 2022-12-01 16:43:30.722252
+Message written to topic test7 at 2022-12-01 16:43:40.087992
+Message written to topic demo at 2022-12-05 09:17:43.350862
+Last message was fetched from topic demo at 2022-12-05 09:17:59.676010
+Message written to topic demo at 2022-12-05 09:23:59.507781
+Last message was fetched from topic demo at 2022-12-05 09:23:59.507781
+Message written to topic demo at 2022-12-05 09:24:10.511368
+Last message was fetched from topic demo at 2022-12-05 09:24:10.511368
+All messages were fetched from topic demo at 2022-12-05 09:24:22.307451
+Message written to topic demo at 2022-12-05 09:24:35.702569
+Last message was fetched from topic demo at 2022-12-05 09:24:35.702569
+Last message was fetched from topic demo at 2022-12-05 09:24:35.702569
